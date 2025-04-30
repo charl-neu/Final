@@ -26,7 +26,7 @@
 // Some Defines
 //----------------------------------------------------------------------------------
 #define MAX_BUILDINGS                    30 //change to fit the larger arena
-#define MAX_EXPLOSIONS                  2000
+#define MAX_EXPLOSIONS                  200
 #define MAX_PLAYERS                       2
 
 #define BUILDING_RELATIVE_ERROR          15        // Building size random range % 
