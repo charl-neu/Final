@@ -235,7 +235,7 @@ void UpdateGame(void)
     {
         if (IsKeyPressed(KEY_ENTER))
         {
-            playerTurn++;
+            playerTurn++; //changed so the player who didn't just win goes first
 
             if (playerTurn == MAX_PLAYERS) playerTurn = 0;
             InitGame();

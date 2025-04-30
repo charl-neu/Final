@@ -4,4 +4,4 @@ this takes the raylib gorillas game and modifies it in a few ways such as
 - greatly increasing the gravity to accomidate its impact for the larger battlefield
 - adding score tracking
 
-changes from the original are indicated by commenting change in the code
+changes from the original are indicated by commenting change or changed in the code
